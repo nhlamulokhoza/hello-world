@@ -1,5 +1,5 @@
 # hello-world
-Nhlamulo's ADME research
+first time for everything
 
 Okay, lets give this a try. 
-I'm Nhlamulo Khoza and I am a MSc student. 
+I'm Nhlamulo Khoza and I am trying my best 
